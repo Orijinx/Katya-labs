@@ -1,0 +1,6 @@
+The size of list is:	5
+The sum of multiplications is:	125
+The sum of multiplications is:	125
+:5
+4:5
+5:5
